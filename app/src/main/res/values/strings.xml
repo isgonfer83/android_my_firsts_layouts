@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mis primeros Layouts</string>
+    <string name="name">Nombre</string>
+    <string name="enter_your_name">Escribe tu nombre</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="date">Fecha</string>
+    <string name="autocomplete">Autocomplete</string>
+    <string name="mulitautocomplete">Mulitautocomplete</string>
+    <string name="checked_text">Checked text</string>
+    <string name="text_input_hint">Text input hint</string>
+    <string name="toggle_button">Toggle button text</string>
+    <string name="checkbox">Guardar automáticamente</string>
+    <string name="image_view_content_description">An nice looking picture of an android</string>
+    <string name="textview_text">Some visible text</string>
+    <string name="textview_content_description">A description of a textview content</string>
+    <string name="accept_uppercase">ACEPTAR</string>
+    <string name="cancel_uppercase">CANCELAR</string>
+    <string name="button_number_1">1</string>
+    <string name="button_number_2">2</string>
+    <string name="button_number_3">3</string>
+    <string name="button_number_4">4</string>
+    <string name="button_number_5">5</string>
+    <string name="button_number_6">6</string>
+    <string name="button_number_7">7</string>
+    <string name="button_number_8">8</string>
+    <string name="button_number_9">9</string>
+    <string name="button_number_zero">0</string>
+    <string name="button_plus">+</string>
+    <string name="button_equals">=</string>
+    <string name="button_clear">C</string>
+</resources>

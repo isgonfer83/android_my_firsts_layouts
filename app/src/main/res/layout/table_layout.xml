@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*">
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+
+        <Button
+            android:id="@+id/button3"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_1"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button4"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_2"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button5"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_3"
+            android:textColor="@color/colorPrimaryDark" />
+
+    </TableRow>
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+
+        <Button
+            android:id="@+id/button9"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_4"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button10"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_5"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button11"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_6"
+            android:textColor="@color/colorPrimaryDark" />
+
+    </TableRow>
+
+    <TableRow
+        style="?android:attr/buttonBarStyle"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+
+        <Button
+            android:id="@+id/button6"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_7"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button7"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_8"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <Button
+            android:id="@+id/button8"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:background="@color/colorAccent"
+            android:text="@string/button_number_9"
+            android:textColor="@color/colorPrimaryDark" />
+
+    </TableRow>
+
+</TableLayout>
